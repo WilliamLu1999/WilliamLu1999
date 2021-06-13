@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WilliamLu1999
+- 👋 Hi, I’m William Lu
 - 🌱 I’m currently learning computer science, mathematics, and part-time physics.
 - 📫 How to reach me ... through email: weilianlu@gmail.com
 
